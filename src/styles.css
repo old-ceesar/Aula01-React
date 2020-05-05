@@ -1,0 +1,9 @@
+.App,
+.Game {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App,
+.Game h1 {
+  color: orange;
+}
